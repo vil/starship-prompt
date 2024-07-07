@@ -18,14 +18,14 @@ style_root = "bright-black"
 show_always = true
 
 [directory]
-style = "blue"
+style = "#00ffcc"
 use_os_path_sep = true
 
 [package]
 format = '[$version](208 bold) '
 
 [character]
-success_symbol = "[❯](bright-black)"
+success_symbol = "[❯](#00ffcc)"
 error_symbol = "[❯](red)"
 vimcmd_symbol = "[❮](green)"
 
